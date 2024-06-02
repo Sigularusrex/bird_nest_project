@@ -1,1 +1,0 @@
-{"argv": ["python", "-m", "ipykernel_launcher", "-f", "{connection_file}", "--ext", "django_extensions.management.notebook_extension", "--HistoryManager.enabled=False"], "env": {"PYTHONPATH": "/Users/davidsigley/Documents/bird_nest_project"}, "display_name": "Django Shell-Plus", "language": "python", "interrupt_mode": "signal", "metadata": {"debugger": true}}
