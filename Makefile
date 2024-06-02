@@ -16,3 +16,6 @@ enrich_source_data_from_csv:
 seed_db:
 	make load_data_from_source_data_folder
 	make enrich_source_data_from_csv
+
+start:
+	python manage.py shell_plus --lab
