@@ -13,4 +13,7 @@ class PlottedDataSerializer(serializers.ModelSerializer):
             "latitude",
             "longitude",
             "enriched_data",
+            "created_at",
+            "strava_latitude",
+            "strave_longitude",
         ]

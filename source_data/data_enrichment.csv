@@ -1,101 +1,159 @@
-ID,Nest Status,Active,Plastic Status,Collection Date,Method
-0001,In Making,Yes,Not visually present,06/04/2024,Electric Boat
-0002,In Making,Yes,Present,06/04/2024,Electric Boat
-0003,Built,Yes,Not visually present,06/04/2024,Electric Boat
-0004,In Making,Yes,Not visually present,06/04/2024,Electric Boat
-0005,Built,Yes,Prevalent,06/04/2024,Electric Boat
-0006,Built,Yes,Not visually present,06/04/2024,Electric Boat
-0007,Built,Yes,Present,06/04/2024,Electric Boat
-0008,Built,Yes,Not visually present,06/04/2024,Electric Boat
-0009,Built,Yes,Prevalent,06/04/2024,Electric Boat
-0010,Built,Yes,Prevalent,06/04/2024,Electric Boat
-0011,In Making,Yes,Not visually present,06/04/2024,Electric Boat
-0012,In Making,Yes,Not visually present,06/04/2024,Electric Boat
-0013,Built,Yes,Prevalent,06/04/2024,Electric Boat
-0014,Built,Unknown,Prevalent,06/04/2024,Electric Boat
-0015,Built,Yes,Present,06/04/2024,Kayak
-0016,Built,Yes,Prevalent,06/04/2024,Kayak
-0017,Built,Yes,Present,06/04/2024,Kayak
-0018,Built,Yes,Not visually present,06/04/2024,Kayak
-0019,In Making,Yes,Present,06/04/2024,Kayak
-0020,Built,Yes,Present,06/04/2024,Kayak
-0021,Built,Yes,Prevalent,06/04/2024,Kayak
-0022,Built,Yes,Not visually present,06/04/2024,Kayak
-0023,Built,Yes,Prevalent,06/04/2024,Kayak
-0024,Built,Unknown,Not visually present,06/04/2024,Kayak
-0025,Built,Yes,Present,06/04/2024,Kayak
-0026,Built,Yes,Prevalent,06/04/2024,Kayak
-0027,In Making,Yes,Not visually present,06/04/2024,Kayak
-0028,Built,Yes,Not visually present,06/04/2024,Kayak
-0029,Built,Yes,Not visually present,06/04/2024,Kayak
-0030,Built,Yes,Present,06/04/2024,Kayak
-0031,Built,Yes,Prevalent,06/04/2024,Kayak
-0032,Built,Yes,Present,06/04/2024,Kayak
-0033,Built,Unknown,Present,06/04/2024,Kayak
-0034,Built,Yes,Not visually present,06/04/2024,Walk
-0035,Built,Yes,Not visually present,07/04/2024,Kayak
-0036,Built,Yes,Prevalent,07/04/2024,Kayak
-0037,Built,Yes,Prevalent,07/04/2024,Kayak
-0038,Built,Yes,Present,07/04/2024,Kayak
-0039,In Making,Yes,Present,07/04/2024,Kayak
-0040,Built,Yes,Not visually present,07/04/2024,Kayak
-0041,Built,Yes,Prevalent,07/04/2024,Kayak
-0042,Built,Yes,Present,07/04/2024,Walk
-0043,In Making,Unknown,Present,08/04/2024,Walk
-0044,Built,Yes,Prevalent,08/04/2024,Walk
-0045,Built,Yes,Prevalent,08/04/2024,Walk
-0046,In Making,Unknown,Not visually present,08/04/2024,Walk
-0047,Built,Yes,Present,08/04/2024,Walk
-0048,Built,Yes,Not visually present,10/04/2024,Walk
-0049,Built,Yes,Not visually present,10/04/2024,Walk
-0050,Built,Yes,Not visually present,10/04/2024,Walk
-0051,Built,Yes,Not visually present,10/04/2024,Walk
-0052,Built,Yes,Not visually present,10/04/2024,Walk
-0053,Built,Yes,Not visually present,12/04/2024,Walk
-0054,Built,Yes,Not visually present,12/04/2024,Walk
-0055,Built,Yes,Not visually present,13/04/2024,Walk
-0056,Built,Yes,Not visually present,13/04/2024,Walk
-0057,Built,Yes,Not visually present,13/04/2024,Walk
-0058,Built,Yes,Not visually present,13/04/2024,Walk
-0059,Built,Yes,Not visually present,13/04/2024,Walk
-0060,Built,Yes,Not visually present,13/04/2024,Walk
-0061,Built,Yes,Not visually present,13/04/2024,Walk
-0062,Built,Yes,Not visually present,13/04/2024,Walk
-0063,Built,Yes,Not visually present,13/04/2024,Walk
-0064,Built,Yes,Not visually present,13/04/2024,Walk
-0065,Built,Yes,Not visually present,13/04/2024,Walk
-0066,Built,Yes,Present,13/04/2024,Walk
-0067,Built,Yes,Present,13/04/2024,Walk
-0068,Built,Yes,Present,14/04/2024,Kayak
-0069,Built,Yes,Not visually present,14/04/2024,Kayak
-0070,Built,Yes,Present,14/04/2024,Kayak
-0071,Built,Yes,Present,14/04/2024,Kayak
-0072,Built,Unknown,Present,14/04/2024,Kayak
-0073,Built,Yes,Not visually present,21/04/2024,Walk
-0074,Built,Yes,Present,21/04/2024,Walk
-0075,Built,Yes,Not visually present,21/04/2024,Walk
-0076,Built,Yes,Not visually present,21/04/2024,Walk
-0077,Built,Yes,Not visually present,21/04/2024,Walk
-0078,Built,Yes,Not visually present,21/04/2024,Walk
-0079,Built,Yes,Present,21/04/2024,Walk
-0080,Built,Yes,Not visually present,21/04/2024,Walk
-0081,Built,Yes,Not visually present,21/04/2024,Walk
-0082,Built,Yes,Not visually present,21/04/2024,Walk
-0083,Built,Yes,Not visually present,21/04/2024,Walk
-0084,Built,Yes,Not visually present,21/04/2024,Walk
-0085,Built,Yes,Not visually present,21/04/2024,Walk
-0086,Built,Yes,Present,21/04/2024,Walk
-0087,Built,Yes,Present,21/04/2024,Walk
-0088,Built,Yes,Not visually present,21/04/2024,Walk
-0089,Built,Yes,Not visually present,22/04/2024,Walk
-0090,Built,Yes,Prevalent,26/04/2024,Walk
-0091,Built,Yes,Prevalent,26/04/2024,Walk
-0092,Built,Unknown,Prevalent,26/04/2024,Walk
-0093,Built,Yes,Not visually present,26/04/2024,Walk
-0094,Built,Yes,Prevalent,27/04/2024,Walk
-0095,Built,Yes,Not visually present,29/04/2024,Walk
-0096,Built,Yes,Present,29/04/2024,Walk
-0097,Built,Yes,Prevalent,29/04/2024,Walk
-0098,Built,Yes,Prevalent,29/04/2024,Walk
-0099,Built,Yes,Present,01/05/2024,Walk
-0100,Built,Yes,Not visually present,01/05/2024,Walk
+id,nest_status,active,plastic_status,collection_date,method,substrate
+0001,In Making,Yes,Not visually present,06/04/2024,Electric Boat,Tyre
+0002,In Making,Yes,Present,06/04/2024,Electric Boat,Tyre
+0003,Built,Yes,Not visually present,06/04/2024,Electric Boat,Platform
+0004,In Making,Yes,Not visually present,06/04/2024,Electric Boat,Tyre
+0005,Built,Yes,Prevalent,06/04/2024,Electric Boat,Tyre
+0006,Built,Yes,Not visually present,06/04/2024,Electric Boat,Tyre
+0007,Built,Yes,Present,06/04/2024,Electric Boat,Decrepit boat
+0008,Built,Yes,Not visually present,06/04/2024,Electric Boat,Boat end
+0009,Built,Yes,Prevalent,06/04/2024,Electric Boat,Box
+0010,Built,Yes,Prevalent,06/04/2024,Electric Boat,Boat end
+0011,In Making,Yes,Not visually present,06/04/2024,Electric Boat,Platform
+0012,In Making,Yes,Not visually present,06/04/2024,Electric Boat,Boat end
+0013,Built,Yes,Prevalent,06/04/2024,Electric Boat,Platform
+0014,Built,Unknown,Prevalent,06/04/2024,Electric Boat,Other
+0015,Built,Yes,Present,06/04/2024,Kayak,Decrepit boat
+0016,Built,Yes,Prevalent,06/04/2024,Kayak,Other
+0017,Built,Yes,Present,06/04/2024,Kayak,Other
+0018,Built,Yes,Not visually present,06/04/2024,Kayak,Tyre
+0019,In Making,Yes,Present,06/04/2024,Kayak,Other
+0020,Built,Yes,Present,06/04/2024,Kayak,Other
+0021,Built,Yes,Prevalent,06/04/2024,Kayak,Other
+0022,Built,Yes,Not visually present,06/04/2024,Kayak,Platform
+0023,Built,Yes,Prevalent,06/04/2024,Kayak,Platform
+0024,Built,Unknown,Not visually present,06/04/2024,Kayak,Decrepit boat
+0025,Built,Yes,Present,06/04/2024,Kayak,Platform
+0026,Built,Yes,Prevalent,06/04/2024,Kayak,Boat end
+0027,In Making,Yes,Not visually present,06/04/2024,Kayak,Tyre
+0028,Built,Yes,Not visually present,06/04/2024,Kayak,Other
+0029,Built,Yes,Not visually present,06/04/2024,Kayak,Tyre
+0030,Built,Yes,Present,06/04/2024,Kayak,Other
+0031,Built,Yes,Prevalent,06/04/2024,Kayak,Boat end
+0032,Built,Yes,Present,06/04/2024,Kayak,Platform
+0033,Built,Unknown,Present,06/04/2024,Kayak,Boat end
+0034,Built,Yes,Not visually present,06/04/2024,Walk,Other
+0035,Built,Yes,Not visually present,07/04/2024,Kayak,Other
+0036,Built,Yes,Prevalent,07/04/2024,Kayak,Other
+0037,Built,Yes,Prevalent,07/04/2024,Kayak,Decrepit boat
+0038,Built,Yes,Present,07/04/2024,Kayak,Platform
+0039,In Making,Yes,Present,07/04/2024,Kayak,Tyre
+0040,Built,Yes,Not visually present,07/04/2024,Kayak,Boat end
+0041,Built,Yes,Prevalent,07/04/2024,Kayak,Boat end
+0042,Built,Yes,Present,07/04/2024,Walk,Other
+0043,In Making,Unknown,Present,08/04/2024,Walk,Decrepit boat
+0044,Built,Yes,Prevalent,08/04/2024,Walk,Boat end
+0045,Built,Yes,Prevalent,08/04/2024,Walk,Platform
+0046,In Making,Unknown,Not visually present,08/04/2024,Walk,Tyre
+0047,Built,Yes,Present,08/04/2024,Walk,Boat end
+0048,Built,Yes,Not visually present,10/04/2024,Walk,Decrepit boat
+0049,Built,Yes,Not visually present,10/04/2024,Walk,Other
+0050,Built,Yes,Not visually present,10/04/2024,Walk,Other
+0051,Built,Yes,Not visually present,10/04/2024,Walk,Other
+0052,Built,Yes,Not visually present,10/04/2024,Walk,Other
+0053,Built,Yes,Not visually present,12/04/2024,Walk,Other
+0054,Built,Yes,Not visually present,12/04/2024,Walk,Decrepit boat
+0055,Built,Yes,Not visually present,13/04/2024,Walk,Other
+0056,Built,Yes,Not visually present,13/04/2024,Walk,Other
+0057,Built,Yes,Not visually present,13/04/2024,Walk,Other
+0058,Built,Yes,Not visually present,13/04/2024,Walk,Other
+0059,Built,Yes,Not visually present,13/04/2024,Walk,Other
+0060,Built,Yes,Not visually present,13/04/2024,Walk,Other
+0061,Built,Yes,Not visually present,13/04/2024,Walk,Other
+0062,Built,Yes,Not visually present,13/04/2024,Walk,Other
+0063,Built,Yes,Not visually present,13/04/2024,Walk,Other
+0064,Built,Yes,Not visually present,13/04/2024,Walk,Other
+0065,Built,Yes,Not visually present,13/04/2024,Walk,Boat end
+0066,Built,Yes,Present,13/04/2024,Walk,Other
+0067,Built,Yes,Present,13/04/2024,Walk,Platform
+0068,Built,Yes,Present,14/04/2024,Kayak,Platform
+0069,Built,Yes,Not visually present,14/04/2024,Kayak,Other
+0070,Built,Yes,Present,14/04/2024,Kayak,Other
+0071,Built,Yes,Present,14/04/2024,Kayak,Tyre
+0072,Built,Unknown,Present,14/04/2024,Kayak,Other
+0073,Built,Yes,Not visually present,21/04/2024,Walk,Boat end
+0074,Built,Yes,Present,21/04/2024,Walk,Other
+0075,Built,Yes,Not visually present,21/04/2024,Walk,Other
+0076,Built,Yes,Not visually present,21/04/2024,Walk,Other
+0077,Built,Yes,Not visually present,21/04/2024,Walk,Other
+0078,Built,Yes,Not visually present,21/04/2024,Walk,Other
+0079,Built,Yes,Present,21/04/2024,Walk,Other
+0080,Built,Yes,Not visually present,21/04/2024,Walk,Other
+0081,Built,Yes,Not visually present,21/04/2024,Walk,Other
+0082,Built,Yes,Not visually present,21/04/2024,Walk,Other
+0083,Built,Yes,Not visually present,21/04/2024,Walk,Other
+0084,Built,Yes,Not visually present,21/04/2024,Walk,Other
+0085,Built,Yes,Not visually present,21/04/2024,Walk,Platform
+0086,Built,Yes,Present,21/04/2024,Walk,Other
+0087,Built,Yes,Present,21/04/2024,Walk,Decrepit boat
+0088,Built,Yes,Not visually present,21/04/2024,Walk,Other
+0089,Built,Yes,Not visually present,22/04/2024,Walk,Platform
+0090,Built,Yes,Prevalent,26/04/2024,Walk,Boat end
+0091,Built,Yes,Prevalent,26/04/2024,Walk,Tyre
+0092,Built,Unknown,Prevalent,26/04/2024,Walk,Other
+0093,Built,Yes,Not visually present,26/04/2024,Walk,Platform
+0094,Built,Yes,Prevalent,27/04/2024,Walk,Tyre
+0095,Built,Yes,Not visually present,29/04/2024,Walk,Boat end
+0096,Built,Yes,Present,29/04/2024,Walk,Boat end
+0097,Built,Yes,Prevalent,29/04/2024,Walk,Boat end
+0098,Built,Yes,Prevalent,29/04/2024,Walk,Boat end
+0099,Built,Yes,Present,01/05/2024,Walk,Platform
+0100,Built,Yes,Not visually present,01/05/2024,Walk,Platform
+0101,Built,Yes,Prevalent,04/05/2024,Electric Boat,Platform
+0102,Built,Yes,Prevalent,04/05/2024,Electric Boat,Boat end
+0103,Built,Yes,Present,04/05/2024,Electric Boat,Decrepit boat
+0104,Built,Yes,Prevalent,04/05/2024,Electric Boat,Other
+0105,Built,Yes,Present,04/05/2024,Electric Boat,Platform
+0106,Built,Yes,Prevalent,04/05/2024,Electric Boat,Boat end
+0107,Built,Yes,Present,04/05/2024,Electric Boat,Boat end
+0108,Built,Yes,Prevalent,04/05/2024,Electric Boat,Boat end
+0109,Built,Yes,Not visually present,04/05/2024,Electric Boat,Platform
+0110,Built,Yes,Present,04/05/2024,Electric Boat,Platform
+0111,Built,Yes,Not visually present,04/05/2024,Electric Boat,Other
+0112,Built,Yes,Not visually present,04/05/2024,Electric Boat,Platform
+0113,Built,Yes,Present,04/05/2024,Electric Boat,Other
+0114,Built,Yes,Present,04/05/2024,Electric Boat,Tyre
+0115,Built,Yes,Not visually present,04/05/2024,Electric Boat,Other
+0116,Built,Yes,Not visually present,04/05/2024,Electric Boat,Boat end
+0117,Built,Yes,Present,04/05/2024,Electric Boat,Tyre
+0118,Built,Yes,Prevalent,04/05/2024,Electric Boat,Decrepit boat
+0119,Built,Yes,Present,04/05/2024,Electric Boat,Other
+0120,Built,Yes,Present,04/05/2024,Electric Boat,Tyre
+0121,Built,Yes,Prevalent,04/05/2024,Electric Boat,Platform
+0122,Built,Unknown,Not visually present,04/05/2024,Electric Boat,Platform
+0123,Built,Yes,Present,04/05/2024,Electric Boat,Tyre
+0124,Built,Yes,Present,04/05/2024,Electric Boat,Tyre
+0125,Built,Yes,Prevalent,04/05/2024,Electric Boat,Other
+0126,Built,Yes,Prevalent,04/05/2024,Electric Boat,Decrepit boat
+0127,Built,Yes,Present,04/05/2024,Electric Boat,Other
+0128,Built,Yes,Not visually present,05/05/2024,Kayak,Other
+0129,Built,Yes,Present,05/05/2024,Kayak,Other
+0130,Built,Yes,Present,05/05/2024,Kayak,Other
+0131,Built,Yes,Not visually present,05/05/2024,Kayak,Other
+0132,Built,Unknown,Not visually present,05/05/2024,Kayak,Other
+0133,Built,Yes,Not visually present,05/05/2024,Kayak,Decrepit boat
+0134,Built,Yes,Present,05/05/2024,Kayak,Boat end
+0135,Built,Yes,Present,05/05/2024,Kayak,Other
+0136,Built,Yes,Present,05/05/2024,Kayak,Other
+0137,Built,Yes,Present,05/05/2024,Kayak,Other
+0138,Built,Yes,Present,05/05/2024,Kayak,Other
+0139,Built,Yes,Prevalent,05/05/2024,Kayak,Other
+0140,Built,Yes,Not visually present,05/05/2024,Kayak,Other
+0141,Built,Yes,Present,05/05/2024,Kayak,Boat end
+0142,Built,Yes,Present,05/05/2024,Kayak,Boat end
+0143,Built,Yes,Present,05/05/2024,Kayak,Other
+0144,Built,Yes,Present,05/05/2024,Kayak,Boat end
+0145,Built,Yes,Not visually present,05/05/2024,Kayak,Boat end
+0146,Built,Yes,Present,05/05/2024,Kayak,Boat end
+0147,Built,Yes,Present,05/05/2024,Kayak,Other
+0148,Built,Yes,Present,05/05/2024,Kayak,Other
+0149,Built,Yes,Not visually present,05/05/2024,Kayak,Boat end
+0150,Built,Yes,Present,05/05/2024,Kayak,Decrepit boat
+0151,Built,Yes,Not visually present,05/05/2024,Kayak,Other
+0152,Built,Yes,Present,05/05/2024,Kayak,Boat end
+0153,Built,Yes,Present,05/05/2024,Kayak,Other
+0154,Built,Unknown,Present,05/05/2024,Kayak,Boat end
+0155,In Making,Yes,Present,05/05/2024,Kayak,Boat end
+0156,Built,Yes,Prevalent,05/05/2024,Kayak,Boat end
+0157,Built,Yes,Prevalent,05/05/2024,Kayak,Boat end
+0158,Built,Yes,Present,05/05/2024,Kayak,Platform

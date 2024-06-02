@@ -8,3 +8,6 @@ class PlottedData(models.Model):
     latitude = models.FloatField(null=True, blank=True)
     longitude = models.FloatField(null=True, blank=True)
     enriched_data = models.JSONField(null=True, blank=True)
+    created_at = models.DateTimeField(null=True, blank=True)
+    strava_latitude = models.FloatField(null=True, blank=True)
+    strava_longitude = models.FloatField(null=True, blank=True)

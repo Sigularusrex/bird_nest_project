@@ -22,8 +22,8 @@ class Command(BaseCommand):
         with open(csv_file, "r") as csvfile:
             reader = csv.DictReader(csvfile)
             for row in tqdm(reader):
-                updated_rows = PlottedData.objects.filter(group_name=row["ID"]).update(
+                updated_rows = PlottedData.objects.filter(group_name=row["id"]).update(
                     enriched_data=row
                 )
                 if updated_rows == 0:
-                    print(f"No data found for group {row['ID']}")
+                    print(f"No data found for group {row['id']}")
